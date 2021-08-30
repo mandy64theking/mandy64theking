@@ -10,6 +10,6 @@
 ### 💬 Ask me about Web Development and Python
 ### 📫 How to reach me : mandy64theking@gmail.com
 ### 😎 Check my portfolio :  https://mandy64theking.github.io/
-### 😄 Pronouns: He
+### 😄 Pronouns: he/him
 ### ⚡ Fun fact: I am also a chess player so you can challenge me on chess.com
 
