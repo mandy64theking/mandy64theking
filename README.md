@@ -4,7 +4,7 @@
 
 
 
-### 🔭 I’m a Polyglot Developer specializing in Spring Boot, Django, FastAPI, Express.js
+### 🔭 I’m a Polyglot Developer specializing in Spring Boot, Django, React, FastAPI, Express.js
 ### 🌱 I’m currently learning about LLMs
 ### 👯 I’m looking to collaborate on Projects involving Web Development or Python Scripting
 ### 💬 Ask me about Django, Java, Spring Boot
