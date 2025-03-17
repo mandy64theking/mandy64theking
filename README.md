@@ -4,12 +4,12 @@
 
 
 
-### 🔭 I’m currently working on Web Development projects with ReactJS,NodeJS and Django
-### 🌱 I’m currently learning about Neural Networks and Deep Learning
-### 👯 I’m looking to collaborate on Projects involving Web Development and Python Automation
-### 💬 Ask me about Web Development and Python
-### 📫 How to reach me : mandy64theking@gmail.com
+### 🔭 I’m a Polyglot Developer specializing in Spring Boot, Django, FastAPI, Express.js
+### 🌱 I’m currently learning about LLMs
+### 👯 I’m looking to collaborate on Projects involving Web Development or Python Scripting
+### 💬 Ask me about Django, Java, Spring Boot
+### 📫 How to reach me : mandarbakshi07@gmail.com
 ### 😎 Check my portfolio :  https://mandy64theking.github.io/
 ### 😄 Pronouns: he/him
-### ⚡ Fun fact: I am also a chess player so you can challenge me on chess.com
+### ⚡ Fun fact: I am also a chess player so you can challenge me on chess.com - mandarbakshi
 
